@@ -21,9 +21,6 @@ Infrastructure as Code, GitOps delivery, observability, and the automation that 
 all reliable and cost-efficient. I've led enterprise cloud migrations, built multi-account
 AWS environments, and cut cloud spend by 20–30% without sacrificing reliability.
 
-Lately I've been applying platform engineering to **ML/GPU workloads** — building the
-infrastructure behind a commercial Turkish text-to-speech product.
-
 ### 🔧 Tech I work with
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -41,13 +38,13 @@ infrastructure behind a commercial Turkish text-to-speech product.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### 📌 Featured project
+### 💡 What I bring
 
-**[turkish-tts-platform-infra](https://github.com/huseyinkervan/turkish-tts-platform-infra)** —
-Production platform for a commercial Turkish TTS product. EKS + Terraform, ArgoCD GitOps,
-Istio canary routing, GPU training on cloud spot instances, an **MLOps quality gate** that
-blocks model regressions in CI, and product-level SLOs. A real-world example of platform
-engineering applied to ML infrastructure.
+- **Kubernetes at scale** — CKA & CKAD certified; EKS and RKE in production
+- **AWS depth** — Solutions Architect Professional, DevOps Engineer Professional, plus Associate-level SA & Developer
+- **Azure** — Solutions Architect Expert
+- **IaC, CI/CD & GitOps** — Terraform, Terragrunt, Jenkins, GitHub Actions, ArgoCD
+- **Cost optimization** — measurable, repeatable 20–30% cloud-spend reductions
 
 ### 🏅 Certifications
 
